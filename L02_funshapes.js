@@ -13,7 +13,7 @@ function draw() {
   // fill("gold");
   //   //    x   y  diameter
   // circle(80, 80, 100);
-  
+  ellipse(100, 200)
 
   // Challenge 2: A face using circle() function
 
