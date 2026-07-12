@@ -14,7 +14,6 @@ function draw() {
   ellipse(200, 100, 80, 50);
 
   // Challenge 2: A face using circle() function
-  //   
 //   // fill("gold");
  //     x   y  diameter
  circle(80, 80, 100);
