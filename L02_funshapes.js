@@ -5,7 +5,7 @@ Task 1: Add the setup() function
 function setup() {
   //            w    h
   createCanvas(400, 600);
-  background('red'); // grayscale 0: black, 225: white, 220: grey
+  background(220); // grayscale 0: black, 225: white, 220: grey
 }
 
 function draw() {
@@ -14,7 +14,7 @@ function draw() {
   //   //    x   y  diameter
   // circle(80, 80, 100);
   ellipse(100, 100, 80, 50);
-  ellipse(200, 100, )
+  ellipse(200, 100, 80, 50);
 
   // Challenge 2: A face using circle() function
 
