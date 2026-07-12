@@ -3,6 +3,7 @@ Task 1: Add the setup() function
 */
 
 function setup() {
+  //            w    h
   createCanvas(600, 400);
   background(220); // grayscale 0: black, 225: white, 220: red
 }
