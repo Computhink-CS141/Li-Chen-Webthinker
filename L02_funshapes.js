@@ -14,7 +14,7 @@ function draw() {
   //   //    x   y  diameter
   // circle(80, 80, 100);
   ellipse(100, 100, 80, 50);
-  ellipse(200, 200)
+  ellipse(200, 100, )
 
   // Challenge 2: A face using circle() function
 
