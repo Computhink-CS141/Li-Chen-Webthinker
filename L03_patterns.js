@@ -26,7 +26,7 @@ let circleY = 50;
     fill(0,i * 50,i * 50);
     circle(50 + i * 50, circleY, circleDiameter)
     print("no")
-    print(ci)
+    print(circleY)
   }
 
   // Task 2: Colour Loop
