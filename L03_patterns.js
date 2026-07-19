@@ -6,8 +6,12 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-circle(75, 200, 100)
+let circleDiameter = 50;
+let circleY = 50;
 
+for (let num=1; num<9; num++){
+circle(75, 200, 100)
+}
 
 // circle(225, 200, 100)
 // circle(375, 200, 100)
