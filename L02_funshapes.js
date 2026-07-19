@@ -5,7 +5,7 @@ Task 1: Add the setup() function
 function setup() {
   //            w    h
   createCanvas(400, 800);
-  background('grey'); // grayscale 0: black, 225: white, 220: grey
+  background(255); // grayscale 0: black, 225: white, 220: grey
 }
 
 function draw() {
@@ -22,7 +22,7 @@ function draw() {
   // rect(100, 200, 100, 200)
   // Challenge 4: A rocketship using triangle() function
   fill("white")
-  ellipse(200, 400, 200, 400)
+  ellipse(200, 100, 200, 400)
   // x1 is a smaller no. than x2
   //       x1  y1  x2  y2  x3  y3
   triangle(60, 150, 116, 40, 172, 150)
