@@ -22,6 +22,7 @@ for (let num=1; num<9; num++){
 // circle(375, 200, 100)
 // circle(525, 200, 100)
   // Task 1: Colour Gradient
+  
 
   // Task 2: Colour Loop
 
