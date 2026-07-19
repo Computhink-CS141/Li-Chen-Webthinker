@@ -25,7 +25,8 @@ function draw() {
   ellipse(200, 300, 200, 400)
   // x1 is a smaller no. than x2
   //       x1  y1  x2  y2  x3  y3
-  triangle(90, 225, 116, 40, 172, 150)
+  triangle(60, 150, 116, 40, 172, 150)
+  
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
