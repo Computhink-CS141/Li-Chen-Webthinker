@@ -24,7 +24,7 @@ for (let num=1; num<9; num++){
   // Task 1: Colour Gradient
   for (let i = 0; i < 5; 1++){
     fill( i * 50)
-    circle(50 + i * )
+    circle(50 + i * 50, circleY, circleDiameter)
   }
 
   // Task 2: Colour Loop
