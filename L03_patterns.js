@@ -10,7 +10,8 @@ let circleDiameter = 50;
 let circleY = 50;
 
 for (let num=1; num<9; num++){
-  circle(50*num,cir, 100)
+  circle(50*num,circleY, cir
+  )
 }
 
 // circle(225, 200, 100)
