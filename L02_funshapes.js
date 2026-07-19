@@ -24,7 +24,7 @@ function draw() {
   fill("white")
   ellipse(200, 300, 200, 400)
   // x1 is a smaller no. than x2
-  //       x1  y1  x2  y2  x3  y3
+  //       x1  y1     x2  y2      x3  y3
   triangle(120, 150, 166, 40, 222, 150)
   rect(100, 450, 200, 50)
   circle(200, 300, 50)
