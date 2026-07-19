@@ -19,7 +19,7 @@ function draw() {
 //   circle(80, 80, 100);
 
   // Challenge 3: A house using rect() function
-  rect(100, 200, 100, 200)
+  // rect(100, 200, 100, 200)
   // Challenge 4: A rocketship using triangle() function
   // x1 is a smaller no. than x2
   //       x1  y1  x2  y2  x3  y3
