@@ -25,6 +25,7 @@ let circleY = 50;
   for (let i = 0; i < 5; i++) {
     fill(0,i * 50,i * 50);
     circle(50 + i * 50, circleY, circleDiameter)
+    
   }
 
   // Task 2: Colour Loop
