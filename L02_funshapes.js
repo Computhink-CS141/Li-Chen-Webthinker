@@ -21,7 +21,7 @@ function draw() {
   // Challenge 3: A house using rect() function
   // rect(100, 200, 100, 200)
   // Challenge 4: A rocketship using triangle() function
-  ellipse(100, 200, )
+  ellipse(100, 200, 50, 100)
   // x1 is a smaller no. than x2
   //       x1  y1  x2  y2  x3  y3
   triangle(60, 150, 116, 40, 172, 150)
