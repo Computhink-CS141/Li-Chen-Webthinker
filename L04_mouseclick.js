@@ -9,5 +9,6 @@ function setup() {
 function draw() {
     for (let num = 0; i < 5; num++){
         fill(220);
+        circle()
     }
 }
