@@ -7,6 +7,7 @@ function setup() {
 }
 
 function draw() {
+    let xposition = 50
     for (let num = 0; num < 6; num++){
         fill(220);
         circle(50, 50, 50);
