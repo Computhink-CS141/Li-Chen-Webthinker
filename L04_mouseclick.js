@@ -19,7 +19,7 @@ function setup() {
 //     }
 // }
 
-let shapeColor = 220
+let shapeColor = "pink";
 
 function draw() {
     fill(shapeColor);
