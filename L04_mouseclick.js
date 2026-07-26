@@ -19,6 +19,8 @@ function setup() {
 //     }
 // }
 
+let 
+
 function draw() {
     fill(shapeColor);
     circle(width/2, height/2, 200);
