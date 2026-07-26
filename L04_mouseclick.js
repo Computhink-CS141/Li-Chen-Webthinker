@@ -3,7 +3,7 @@ function setup() {
     //            w    h
     createCanvas(500, 500);
     background(220);
-    // noLoop();
+    noLoop();
 }
 
 function draw() {
@@ -11,5 +11,5 @@ function draw() {
     let ypos = 50;
     let ggColour = 0;
     for (let num = 1; num < 6; num++);
-    
+
 }
