@@ -3,18 +3,18 @@ function setup() {
     //            w    h
     createCanvas(500, 500);
     background(220);
-    noLoop();
+    // noLoop();
 }
 
 function draw() {
-    let xpos = 50;
     let ypos = 50;
+    let xpos = 50;
     let ggColour = 0;
-    for (let num = 1; num < 6; num++); {
+    for (let num = 0; num < 6; num++){
         fill(0, ggColour, 0);
         circle(xpos, ypos, 50);
-        let xpos = xpos-50;
-        let ypos = ypos-50;
-        let ggColour = ggColour + 50;
+        xpos = xpos+50;
+        ypos = ypos+50;
+        ggColour = ggColour+50;
     }
 }
