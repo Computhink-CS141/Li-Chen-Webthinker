@@ -53,5 +53,5 @@ function mouseReleased() {
 }
 
 function mouseMoved() {
-    circle(mouseX, mouseY, 20)
+    circle(mouseX, mouseY, 20);
 }
