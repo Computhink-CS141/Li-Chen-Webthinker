@@ -20,6 +20,6 @@ function setup() {
 // }
 
 function draw() {
-    fill(shapeColour);
+    fill("shapeColour");
     circle(width/2, )
 }
