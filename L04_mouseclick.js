@@ -35,7 +35,11 @@
 //     shapeColor = "white";
 // }
 
-let shapeColor
+let shapeColor = "pink";
+
+function setup() {
+    createCanvas 
+}
 
 function mousePressed() {
 
