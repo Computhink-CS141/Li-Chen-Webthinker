@@ -15,6 +15,6 @@ function draw() {
         circle(xpos, ypos, 50);
         let xpos = xpos-50;
         let ypos = ypos-50;
-        let
+        let ggColour = 
     }
 }
