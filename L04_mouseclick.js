@@ -20,5 +20,5 @@ function setup() {
 // }
 
 function draw() {
-    fill(shapeColour)
+    fill(shapeColour);
 }
