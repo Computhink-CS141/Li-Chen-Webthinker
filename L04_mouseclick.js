@@ -1,4 +1,8 @@
 // write your codes here
-function draw() {
+function setup() {
     
+}
+
+function draw() {
+
 }
