@@ -1,11 +1,11 @@
 // write your codes here
-function setup() {
-    //            w    h
-    createCanvas(500, 500);
-    background(220);
-    // noLoop();
-    noStroke();
-}
+// function setup() {
+//     //            w    h
+//     createCanvas(500, 500);
+//     background(220);
+//     // noLoop();
+//     noStroke();
+// }
 
 // function draw() {
 //     let ypos = 50;
