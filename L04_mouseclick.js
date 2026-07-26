@@ -28,3 +28,6 @@ function mousePressed() {
     shapeColour = colour(random(0, 225));
 }
 
+function mouseReleased() {
+    
+}
