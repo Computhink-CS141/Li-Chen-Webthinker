@@ -8,5 +8,7 @@ function setup() {
 
 function draw() {
     let xpos = 50;
-    let ypos = 50
+    let ypos = 50;
+    let ggColour = 0;
+    
 }
