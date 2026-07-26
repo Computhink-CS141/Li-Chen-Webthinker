@@ -35,6 +35,8 @@
 //     shapeColor = "white";
 // }
 
+let shapeColor
+
 function mousePressed() {
 
 }
