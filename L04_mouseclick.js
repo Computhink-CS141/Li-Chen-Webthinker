@@ -20,10 +20,10 @@ function setup() {
 // }
 
 function draw() {
-    fill("lightblue");
+    fill(shapeColour);
     circle(100/2, 100/2, 200);
 }
 
 function mousePressed() {
-    
+
 }
