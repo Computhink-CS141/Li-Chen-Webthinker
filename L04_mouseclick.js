@@ -38,7 +38,8 @@
 let shapeColor = "pink";
 
 function setup() {
-    createCanvas(500, 500)
+    createCanvas(500, 500);
+    background
 }
 
 function mousePressed() {
