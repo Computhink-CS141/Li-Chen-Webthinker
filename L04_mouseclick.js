@@ -53,6 +53,6 @@ function mouseReleased() {
 }
 
 function mouseMoved() {
-    fill
+    fill(shapeColor);
     circle(mouseX, mouseY, 20);
 }
