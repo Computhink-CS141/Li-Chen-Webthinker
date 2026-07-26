@@ -19,17 +19,19 @@ function setup() {
 //     }
 // }
 
-let shapeColor = "pink";
+// let shapeColor = "pink";
 
-function draw() {
-    fill(shapeColor);
-    circle(500/2, 500/2, 200);
-}
+// function draw() {
+//     fill(shapeColor);
+//     circle(500/2, 500/2, 200);
+// }
 
-function mousePressed() {
-    shapeColor = color(random(0,255));
-}
+// function mousePressed() {
+//     shapeColor = color(random(0,255));
+// }
 
-function mouseReleased() {
-    shapeColor = "white";
-}
+// function mouseReleased() {
+//     shapeColor = "white";
+// }
+
+function mousePressed() 
