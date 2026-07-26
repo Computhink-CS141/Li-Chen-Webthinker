@@ -13,6 +13,8 @@ function draw() {
     for (let num = 1; num < 6; num++); {
         fill(0, ggColour, 0);
         circle(xpos, ypos, 50);
-        let xpos = xpos-50
+        let xpos = xpos-50;
+        let ypos = ypos-50;
+        let
     }
 }
