@@ -44,13 +44,13 @@ function setup() {
     noStroke();
 }
 
-function mousePressed() {
-    shapeColor = color(random(0,225))
-}
+// function mousePressed() {
+//     shapeColor = color(random(0,225))
+// }
 
-function mouseReleased() {
-    shapeColor = "white";
-}
+// function mouseReleased() {
+//     shapeColor = "white";
+// }
 
 function mouseMoved() {
     fill(shapeColor);
