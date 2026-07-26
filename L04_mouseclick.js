@@ -21,5 +21,9 @@ function setup() {
 
 function draw() {
     fill("lightblue");
-    circle(width/2, height/2, 200);
+    circle(100/2, 100/2, 200);
+}
+
+function mousePressed() {
+    
 }
