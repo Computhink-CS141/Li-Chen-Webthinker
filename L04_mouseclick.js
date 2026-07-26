@@ -21,7 +21,7 @@ function setup() {
 
 function draw() {
     fill(shapeColour);
-    circle(100/2, 100/2, 200);
+    circle(100/2, height/2, 200);
 }
 
 function mousePressed() {
