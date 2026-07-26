@@ -21,5 +21,5 @@ function setup() {
 
 function draw() {
     fill(shapeColour);
-    circle
+    circle(width/2)
 }
