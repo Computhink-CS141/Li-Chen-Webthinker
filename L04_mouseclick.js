@@ -10,6 +10,7 @@ function draw() {
     let xposition = 50
     for (let num = 0; num < 6; num++){
         fill(220);
-        circle(50, 50, 50);
+        circle(xpos, 50, 50);
+        xpos = xpos+50
     }
 }
