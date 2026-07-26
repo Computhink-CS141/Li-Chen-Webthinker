@@ -2,7 +2,7 @@
 function setup() {
     //            w    h
     createCanvas(500, 500);
-    background(255);
+    background(220);
     noLoop();
 }
 
