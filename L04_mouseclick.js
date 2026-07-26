@@ -52,7 +52,7 @@ function setup() {
 //     shapeColor = "white";
 // }
 
-function mouseMoved() {
+function mouseDragged() {
     fill(shapeColor);
     circle(mouseX, mouseY, 20);
 }
