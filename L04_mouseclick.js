@@ -21,5 +21,5 @@ function setup() {
 
 function draw() {
     fill("lightblue");
-    circle(width/2, height/2)
+    circle(width/2, height/2, 200);
 }
