@@ -11,7 +11,7 @@ function draw() {
     let xpos = 50;
     let ggColour = 0;
     for (let num = 0; num < 6; num++){
-        fill(220);
+        fill(ggC);
         circle(xpos, ypos, 50);
         xpos = xpos+50;
         ypos = ypos+50
