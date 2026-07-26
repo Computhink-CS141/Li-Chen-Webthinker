@@ -40,7 +40,7 @@ let shapeColor = "pink";
 function setup() {
     createCanvas(500, 500);
     background("pink");
-    noLoop();
+    // noLoop();
     noStroke();
 }
 
