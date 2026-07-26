@@ -7,5 +7,6 @@ function setup() {
 }
 
 function draw() {
-    let xpos = 
+    let xpos = 50;
+    let ypos = 50
 }
