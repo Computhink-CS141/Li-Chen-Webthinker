@@ -23,7 +23,7 @@ let shapeColor = 220
 
 function draw() {
     fill(shapeColor);
-    circle(width/2, height/2, 200);
+    circle(500/2, 500/2, 200);
 }
 
 function mousePressed() {
