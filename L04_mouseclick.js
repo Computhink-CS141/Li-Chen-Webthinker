@@ -4,6 +4,7 @@ function setup() {
     createCanvas(500, 500);
     background(220);
     // noLoop();
+    no
 }
 
 // function draw() {
@@ -34,4 +35,6 @@ function setup() {
 //     shapeColor = "white";
 // }
 
-function mousePressed() 
+function mousePressed() {
+
+}
