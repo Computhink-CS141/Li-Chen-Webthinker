@@ -12,6 +12,7 @@ function draw() {
     for (let num = 0; num < 6; num++){
         fill(220);
         circle(xpos, 50, 50);
-        xpos = xpos+50
+        xpos = xpos+50;
+        ypos = ypos+50
     }
 }
