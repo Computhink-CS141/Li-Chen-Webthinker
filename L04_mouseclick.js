@@ -20,6 +20,6 @@ function setup() {
 // }
 
 function draw() {
-    fill("shapeColour");
-    circle(width/2, )
+    fill("lightblue");
+    circle(width/2, height/2)
 }
