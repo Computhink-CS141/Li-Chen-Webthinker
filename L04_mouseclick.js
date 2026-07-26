@@ -20,14 +20,14 @@ function setup() {
 // }
 
 function draw() {
-    fill(shapeColour);
+    fill(shapeColor);
     circle(width/2, height/2, 200);
 }
 
 function mousePressed() {
-    shapeColour = colour(random(0, 225));
+    shapeColor = colour(random(0, 225));
 }
 
 function mouseReleased() {
-    shapeColour = "white"
+    shapeColor = "white"
 }
