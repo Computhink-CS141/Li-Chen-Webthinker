@@ -35,7 +35,7 @@
 //     shapeColor = "white";
 // }
 
-let shapeColor = "pink";
+let shapeColor = "white";
 
 function setup() {
     createCanvas(500, 500);
