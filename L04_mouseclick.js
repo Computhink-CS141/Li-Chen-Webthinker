@@ -7,14 +7,5 @@ function setup() {
 }
 
 function draw() {
-    let ypos = 50;
-    let xpos = 50;
-    let ggColour = 0;
-    for (let num = 0; num < 6; num++){
-        fill(0, ggColour, 0);
-        circle(xpos, ypos, 50);
-        xpos = xpos+50;
-        ypos = ypos+50;
-        ggColour = ggColour+50;
-    }
+    let 
 }
