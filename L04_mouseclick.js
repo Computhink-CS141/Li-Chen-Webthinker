@@ -8,6 +8,6 @@ function setup() {
 
 function draw() {
     for (let num = 0; i < 5; num++){
-        fill()
+        fill(220);
     }
 }
