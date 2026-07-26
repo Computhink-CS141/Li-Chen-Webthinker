@@ -19,7 +19,7 @@ function setup() {
 //     }
 // }
 
-let 
+let shapeColor = 
 
 function draw() {
     fill(shapeColor);
