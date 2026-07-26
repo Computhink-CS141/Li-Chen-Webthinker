@@ -2,7 +2,7 @@
 function setup() {
     //            w    h
     createCanvas(500, 500);
-    background("lightblue")
+    background("lightblue");
 }
 
 function draw() {
