@@ -46,8 +46,9 @@ function draw() {
     }
     if (showRect) {
         fill("red");
-        rect(width/2-size, height/2-size, size, size)
+        rect(width/2-size, height/2-size, size, size*2);
     }
+    
 }
 
 function keyPressed() {
