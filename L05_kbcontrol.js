@@ -22,15 +22,15 @@ function setup() {
 //     circle(mouseX, mouseY, size)
 //     size = size + 0.5;
 // }
-function draw() {
-    background("skyblue");
-    rect(width/2, height/2, size, size);
-}
+// function draw() {
+//     background("skyblue");
+//     rect(width/2, height/2, size, size);
+// }
 
-function keyPressed() {
-    size = 300;
-}
+// function keyPressed() {
+//     size = 300;
+// }
 
-function keyReleased() {
-    size = 50;
-}
+// function keyReleased() {
+//     size = 50;
+// }
