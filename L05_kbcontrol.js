@@ -3,7 +3,7 @@ let colour = "white";
 let size = 50;
 let showCircle = false;
 let showRect = false;
-let show
+let showSq
 
 function setup() {
     createCanvas(500, 500);
