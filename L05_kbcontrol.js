@@ -82,6 +82,6 @@ function keyPressed() {
     }
     if (keyCode === DOWN_ARROW){
         fill("black");
-        
+        circle()
     }
 }
