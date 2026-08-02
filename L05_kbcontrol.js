@@ -61,6 +61,8 @@ function keyPressed() {
     }
     if (key === s) (
         showSquare = ! show
+    )
+    if (key === r) (
         
     )
 }
