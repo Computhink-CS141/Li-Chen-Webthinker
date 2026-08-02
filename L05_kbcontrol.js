@@ -68,5 +68,7 @@ function draw() {
 // }
 function keyPressed() {
     print(key);
-    print(keyC)
+    print(keyCode);
+
+    if (keyCode === UPARROW)
 }
