@@ -36,4 +36,6 @@ function setup() {
 //     size = 50;
 // }
 
-function setup()
+function draw() {
+    
+}
