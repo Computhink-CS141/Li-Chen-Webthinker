@@ -23,5 +23,6 @@ function setup() {
 //     size = size + 0.5;
 // }
 function draw() {
-    background("sky")
+    background("skyblue");
+    rect
 }
