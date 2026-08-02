@@ -1,6 +1,9 @@
 // write your codes here
 function setup() {
-
+    createCanvas(500, 500);
+//     background(220);
+//     // noLoop();
+//     noStroke();
 }
 
 function draw() {
