@@ -2,7 +2,7 @@
 let colour = "white";
 let size = 50;
 let showCircle = false;
-let
+let showRect = false
 
 function setup() {
     createCanvas(500, 500);
