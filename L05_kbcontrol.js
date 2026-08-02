@@ -39,7 +39,7 @@ function setup() {
 function draw() {
     background("skyblue");
     if (showCircle) {
-        rec(width/2, height/2, size, size + 1);
+        rec(width/2, height/2, size, size+1);
     }
 }
 
