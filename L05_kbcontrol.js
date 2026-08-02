@@ -46,7 +46,7 @@ function draw() {
     }
     if (showRect) {
         fill("red");
-        rect()
+        rect(width/2-size)
     }
 }
 
