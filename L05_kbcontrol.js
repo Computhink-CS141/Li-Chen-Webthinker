@@ -1,11 +1,12 @@
 // write your codes here
 let colour = "white";
 let size = 50;
+let showCircle = false;
 
 function setup() {
     createCanvas(500, 500);
     background("lightblue");
-    noStroke();
+    // noStroke();
 }
 
 // function draw() {
@@ -34,3 +35,5 @@ function setup() {
 // function keyReleased() {
 //     size = 50;
 // }
+
+function setup()
