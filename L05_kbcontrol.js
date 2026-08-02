@@ -39,6 +39,10 @@ function setup() {
 function draw() {
     background("skyblue");
     if (showCircle) {
-        circle(width/2, height)
+        circle(width/2, height/2, size);
     }
+}
+
+function keyPressed() {
+    if (key === 'c') {}
 }
