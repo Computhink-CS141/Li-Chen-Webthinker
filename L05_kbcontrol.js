@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw() {
-    circle(500/2, 500/2, 100);
+    circle(500/2, 500/2, size);
 }
 
 function mousePressed() {
