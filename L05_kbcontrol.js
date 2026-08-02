@@ -50,7 +50,7 @@ function draw() {
     }
     if (showSquare) {
         fill("blue");
-        rect
+        rect(width/2, height/2)
     }
 }
 
