@@ -43,7 +43,7 @@ function draw() {
 
     }
     if (showRec) {
-        fill()
+        fill("blue")
     }
 }
 
