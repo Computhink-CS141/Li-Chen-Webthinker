@@ -71,6 +71,6 @@ function keyPressed() {
     print(keyCode);
 
     if (keyCode === UPARROW) {
-        
+        print("i have ")
     }
 }
