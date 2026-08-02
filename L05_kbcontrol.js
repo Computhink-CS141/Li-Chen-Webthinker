@@ -60,6 +60,7 @@ function keyPressed() {
         showCircle = ! showCircle;
     }
     if (key === s) (
+        showSquare = ! show
         
     )
 }
