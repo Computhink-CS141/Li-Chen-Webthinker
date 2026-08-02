@@ -80,5 +80,8 @@ function keyPressed() {
         fill("red");
         circle(width/2, height/2, size);
     }
-    if (keyCode === DOWN_ARROW)
+    if (keyCode === DOWN_ARROW){
+        fill("black");
+        
+    }
 }
