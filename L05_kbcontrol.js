@@ -54,15 +54,15 @@ function draw() {
     }
 }
 
-function keyPressed() {
-    if (key === 'c') {
-        // ! is a NOT operator
-        showCircle = ! showCircle;
-    }
-    if (key === 's') {
-        showSquare = ! showSquare;
-    }
-    if (key === 'r') {
-        showRect = ! showRect;
-    }
-}
+// function keyPressed() {
+//     if (key === 'c') {
+//         // ! is a NOT operator
+//         showCircle = ! showCircle;
+//     }
+//     if (key === 's') {
+//         showSquare = ! showSquare;
+//     }
+//     if (key === 'r') {
+//         showRect = ! showRect;
+//     }
+// }
