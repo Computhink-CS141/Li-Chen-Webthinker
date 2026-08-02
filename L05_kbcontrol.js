@@ -67,5 +67,5 @@ function draw() {
 //     }
 // }
 function keyPressed() {
-    
+    print(key)
 }
