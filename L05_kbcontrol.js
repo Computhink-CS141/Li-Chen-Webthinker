@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-    circle(500/2, 500/2, size);
+    
 }
 
 function mousePressed() {
@@ -19,5 +19,5 @@ function mousePressed() {
 
 function mouseDragged() {
     fill(colour);
-    circle()
+    circle(mouse)
 }
