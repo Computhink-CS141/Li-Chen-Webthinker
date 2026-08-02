@@ -76,5 +76,6 @@ function setup() {
 // }
 
 function keyPressed() {
-    
+    if (keyCode === UP_ARROW) {
+    }
 }
