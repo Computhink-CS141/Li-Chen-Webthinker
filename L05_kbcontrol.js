@@ -4,8 +4,7 @@ let size = 5;
 
 function setup() {
     createCanvas(500, 500);
-    background(220);
-
+    background();
     noStroke();
 }
 
@@ -19,5 +18,5 @@ function mousePressed() {
 }
 
 function mouseDragged() {
-    
+
 }
