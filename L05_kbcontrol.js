@@ -28,5 +28,7 @@ function draw() {
 }
 
 function keyPressed() {
-    
+    size = 300;
 }
+
+fu
