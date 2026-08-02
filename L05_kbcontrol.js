@@ -39,6 +39,6 @@ function setup() {
 function draw() {
     background("skyblue");
     if (showCircle) {
-        circle
+        circle(width/2, height)
     }
 }
