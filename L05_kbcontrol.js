@@ -78,6 +78,6 @@ function setup() {
 function keyPressed() {
     if (keyCode === UP_ARROW) {
         fill("red");
-        circle(width/2, h)
+        circle(width/2, height/2, size)
     }
 }
