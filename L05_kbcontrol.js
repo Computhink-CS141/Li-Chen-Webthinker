@@ -45,7 +45,7 @@ function draw() {
 
 function keyPressed() {
     if (key === 'c') {
-        // ! 
+        // ! is a NOT operator
         showCircle = ! showCircle;
     }
 }
