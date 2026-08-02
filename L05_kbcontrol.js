@@ -1,5 +1,5 @@
 // write your codes here
-let 
+let colour = ""
 
 function setup() {
     createCanvas(500, 500);
