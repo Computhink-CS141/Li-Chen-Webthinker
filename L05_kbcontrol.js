@@ -31,4 +31,6 @@ function keyPressed() {
     size = 300;
 }
 
-fu
+function keyReleased() {
+    size = 50;
+}
