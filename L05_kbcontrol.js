@@ -59,10 +59,10 @@ function keyPressed() {
         // ! is a NOT operator
         showCircle = ! showCircle;
     }
-    if (key === s) {
+    if (key === 's') {
         showSquare = ! showSquare;
     }
-    if (key === r) {
+    if (key === 'r') {
         showRect = ! showRect;
     }
 }
