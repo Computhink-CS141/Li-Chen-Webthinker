@@ -1,5 +1,5 @@
 // write your codes here
-let colour = "blue";
+let colour = "white";
 let size = 5;
 
 function setup() {
