@@ -66,11 +66,12 @@ function setup() {
 //         showRect = ! showRect;
 //     }
 // }
-function keyPressed() {
-    print(key);
-    print(keyCode);
+// function keyPressed() {
+//     print(key);
+//     print(keyCode);
 
-    if (keyCode === UPARROW) {
-        print("i have got UP ARROW key")
-    }
-}
+//     if (keyCode === UP_ARROW) {
+//         print("i have got UP ARROW key")
+//     }
+// }
+
