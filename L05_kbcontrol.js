@@ -1,6 +1,6 @@
 // write your codes here
 // let colour = "white";
-// let size = 50;
+let size = 50;
 // let showCircle = false;
 // let showRect = false;
 // let showSquare = false;
@@ -77,6 +77,6 @@ function setup() {
 
 function keyPressed() {
     if (keyCode === UP_ARROW) {
-        
+
     }
 }
