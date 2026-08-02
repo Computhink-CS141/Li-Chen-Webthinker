@@ -42,7 +42,9 @@ function draw() {
         circle(width/2, height/2, size);
 
     }
-    if (showRec) 
+    if (showRec) {
+        fill()
+    }
 }
 
 function keyPressed() {
