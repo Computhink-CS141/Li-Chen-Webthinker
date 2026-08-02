@@ -59,4 +59,7 @@ function keyPressed() {
         // ! is a NOT operator
         showCircle = ! showCircle;
     }
+    if (key === s) (
+        
+    )
 }
