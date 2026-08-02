@@ -49,7 +49,8 @@ function draw() {
         rect(width/2-size, height/2-size, size, size*2);
     }
     if (showSquare) {
-        
+        fill("blue");
+        rect
     }
 }
 
