@@ -63,6 +63,6 @@ function keyPressed() {
         showSquare = ! show
     )
     if (key === r) (
-        
+        showRect = ! showRect
     )
 }
