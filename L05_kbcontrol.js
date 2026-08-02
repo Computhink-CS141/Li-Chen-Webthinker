@@ -2,6 +2,7 @@
 let colour = "white";
 let size = 50;
 let showCircle = false;
+let
 
 function setup() {
     createCanvas(500, 500);
@@ -42,7 +43,7 @@ function draw() {
         circle(width/2, height/2, size);
 
     }
-    if (showRec) {
+    if (showRect) {
         fill("blue")
     }
 }
