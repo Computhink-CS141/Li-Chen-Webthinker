@@ -70,5 +70,7 @@ function keyPressed() {
     print(key);
     print(keyCode);
 
-    if (keyCode === UPARROW)
+    if (keyCode === UPARROW) {
+        
+    }
 }
