@@ -28,6 +28,9 @@ function draw() {
 }
 
 function keyPressed() {
+    if (key === 32) {
+        
+    }
     if (key === 's') {
         bgm.stop();
     }
