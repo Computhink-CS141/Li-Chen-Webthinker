@@ -1,5 +1,9 @@
 // write your codes here
-function preload() {}
+
+
+function preload() {
+
+}
 
 function setup() {
     createCanvas(350, 350);
