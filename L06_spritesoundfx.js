@@ -14,7 +14,7 @@ function setup() {
     background("lightblue");
     xpos = 0;
 
-    bgm.loop(); //
+    bgm.loop(); //play non-stop
 }
 
 function draw() {
