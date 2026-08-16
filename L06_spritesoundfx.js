@@ -1,5 +1,4 @@
 // write your codes here
-let bgm;
 let pico;
 let xpos, ypos;
 let bgm, sfx;
