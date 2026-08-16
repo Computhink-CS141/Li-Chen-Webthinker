@@ -25,7 +25,7 @@ function draw() {
     circle(xpos, ypos, size);
 
     if (keyIsDown(RIGHT_ARROW)) {
-        xpos
+        xpos = xpos +2;
     }
 }
 
