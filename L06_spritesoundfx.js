@@ -15,4 +15,7 @@ function setup() {
 function draw() {
     //          x  y   w    h
     image(pico, 0, 0, 110, 133);
+    if (keyIsDown(RIGHT_ARROW)) {
+        
+    }
 }
