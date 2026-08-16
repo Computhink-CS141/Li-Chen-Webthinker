@@ -31,7 +31,10 @@ function draw() {
     if (keyIsDown(LEFT_ARROW)) {
         xpos = xpos - 2;
     }
-    
+
+    if (keyIsDown(UP_ARROW)) {
+        
+    }
 }
 
 
