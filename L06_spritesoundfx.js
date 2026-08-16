@@ -33,6 +33,6 @@ function keyPressed() {
         bgm.stop();
     }
     if (key === 'c') {
-        
+        bgm.stop();
     }
 }
