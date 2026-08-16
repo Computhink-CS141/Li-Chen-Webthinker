@@ -5,7 +5,7 @@ let xpos;
 
 function preload() {
     // any media, image or sound must load here
-    pico = loadImage("assests/pico-a.png")
+    pico = loadImage("assets/pico-a.png")
 }
 
 function setup() {
