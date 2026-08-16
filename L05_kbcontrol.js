@@ -7,6 +7,9 @@
 let size = 25
 let colour = "blue";
 
+let xpos = 0;
+let ypos = 0;
+
 function setup() {
     createCanvas(600, 600);
     background("skyblue");
@@ -16,8 +19,6 @@ function setup() {
     ypos = height/2
 }
 
-let xpos = 0;
-let ypos = 0;
 
 
 function draw() {
