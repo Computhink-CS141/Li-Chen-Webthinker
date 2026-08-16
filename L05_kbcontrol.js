@@ -4,7 +4,7 @@
 // let showCircle = false;
 // let showRect = false;
 // let showSquare = false;
-let colo
+let colour = "blue"
 
 function setup() {
     createCanvas(500, 500);
