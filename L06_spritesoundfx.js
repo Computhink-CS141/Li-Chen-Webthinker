@@ -35,7 +35,7 @@ function draw() {
 }
 
 function keyPressed() {
-    if (key === 32) {
+    if (keyCode === 32) {
         sfx.play();
     }
     // if (key === 's') {
