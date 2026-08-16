@@ -13,8 +13,8 @@ function preload() {
 function setup() {
     createCanvas(350, 350);
     background("lightblue");
-    xpos = 0;
-    ypos = 0;
+    xpos = width/2;
+    ypos = height;
 
     bgm.loop(); //play non-stop
 }
