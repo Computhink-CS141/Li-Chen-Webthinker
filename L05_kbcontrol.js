@@ -4,6 +4,7 @@
 // let showCircle = false;
 // let showRect = false;
 // let showSquare = false;
+let size = 25
 let colour = "blue";
 
 function setup() {
