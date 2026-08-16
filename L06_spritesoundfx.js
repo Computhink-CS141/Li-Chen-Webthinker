@@ -25,3 +25,7 @@ function draw() {
         xpos = xpos + 2;
     }
 }
+
+function keyPressed() {
+    
+}
