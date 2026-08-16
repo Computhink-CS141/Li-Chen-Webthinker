@@ -20,7 +20,8 @@ function setup() {
 
 
 function draw() {
-    background("")
+    background("skyblue");
+    fill()
 }
 
 
