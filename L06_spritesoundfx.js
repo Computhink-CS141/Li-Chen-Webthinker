@@ -30,7 +30,7 @@ function draw() {
         ypos = ypos - 2;
     }
     xpos = constrain(xpos, 0+55, width-55);
-    ypos = constrain(ypos,)
+    ypos = constrain(ypos, 0-65, )
 }
 
 function keyPressed() {
