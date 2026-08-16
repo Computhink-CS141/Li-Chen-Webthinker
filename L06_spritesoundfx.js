@@ -29,7 +29,7 @@ function draw() {
     if (keyIsDown(UP_ARROW)) {
         ypos = ypos - 2;
     }
-    xpos
+    xpos = constrain()
 }
 
 function keyPressed() {
