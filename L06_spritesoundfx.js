@@ -14,7 +14,7 @@ function setup() {
     createCanvas(350, 350);
     background("lightblue");
     xpos = width/2;
-    ypos = height;
+    ypos = height/2;
 
     bgm.loop(); //play non-stop
 }
