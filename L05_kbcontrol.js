@@ -22,7 +22,7 @@ function setup() {
 function draw() {
     background("skyblue");
     fill(colour);
-    circle
+    circle(xpos)
 }
 
 
