@@ -30,6 +30,6 @@ function draw() {
 
 function keyPressed() {
     if (key === 's') {
-        
+        bgm.stop();
     }
 }
