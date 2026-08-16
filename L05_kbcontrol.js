@@ -6,7 +6,7 @@
 // let showSquare = false;
 let colour = "blue";
 
-l
+let xpos = 
 
 function setup() {
     createCanvas(500, 500);
