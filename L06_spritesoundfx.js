@@ -29,7 +29,7 @@ function draw() {
 
 function keyPressed() {
     if (key === 32) {
-        sfx.play
+        sfx.play();
     }
     // if (key === 's') {
     //     bgm.stop();
