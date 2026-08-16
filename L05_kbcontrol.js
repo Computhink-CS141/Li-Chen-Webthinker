@@ -1,9 +1,10 @@
 // write your codes here
 // let colour = "white";
-let size = 50;
+// let size = 50;
 // let showCircle = false;
 // let showRect = false;
 // let showSquare = false;
+let colo
 
 function setup() {
     createCanvas(500, 500);
