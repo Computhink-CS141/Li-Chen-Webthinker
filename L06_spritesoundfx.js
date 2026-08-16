@@ -1,4 +1,4 @@
 // write your codes here
 function setup() {
-    createCanvas
+    createCanvas(350, 350)
 }
