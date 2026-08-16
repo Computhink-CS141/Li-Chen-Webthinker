@@ -75,13 +75,13 @@ function setup() {
 //     }
 // }
 
-function keyPressed() {
-    if (keyCode === UP_ARROW) {
-        fill("red");
-        circle(width/2, height/2, size);
-    }
-    if (keyCode === DOWN_ARROW){
-        fill("black");
-        circle(width/2, height/2, size);
-    }
-}
+// function keyPressed() {
+//     if (keyCode === UP_ARROW) {
+//         fill("red");
+//         circle(width/2, height/2, size);
+//     }
+//     if (keyCode === DOWN_ARROW){
+//         fill("black");
+//         circle(width/2, height/2, size);
+//     }
+// }
