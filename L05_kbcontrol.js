@@ -6,11 +6,12 @@
 // let showSquare = false;
 let colour = "blue";
 
-let xpos = 
+let xpos = 0;
+let ypos = 0;
 
 function setup() {
     createCanvas(500, 500);
-    background("lightblue");
+    background("skyblue");
     // noStroke();
 }
 
