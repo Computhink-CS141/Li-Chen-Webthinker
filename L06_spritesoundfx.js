@@ -28,13 +28,13 @@ function draw() {
 }
 
 function keyPressed() {
-    if (key === '32') {
+    if (key === 32) {
         sfx.play
     }
-    if (key === 's') {
-        bgm.stop();
-    }
-    if (key === 'c') {
-        bgm.play();
-    }
+    // if (key === 's') {
+    //     bgm.stop();
+    // }
+    // if (key === 'c') {
+    //     bgm.play();
+    // }
 }
