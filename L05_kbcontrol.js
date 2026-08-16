@@ -36,6 +36,10 @@ function draw() {
         ypos = ypos - 2;
     
     }
+
+    if (keyIsDown(DOWN_ARROW)) {
+        
+    }
 }
 
 
