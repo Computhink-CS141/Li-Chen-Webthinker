@@ -22,7 +22,11 @@ function setup() {
 function draw() {
     background("skyblue");
     fill(colour);
-    circle(xpos, ypos, )
+    circle(xpos, ypos, size);
+
+    if (keyIsDown(RIGHT_ARROW)) {
+        xpos
+    }
 }
 
 
