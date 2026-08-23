@@ -18,7 +18,8 @@ function draw() {
     fill(0);
     circle(ballX, ballY, ballSize);
     
-    ballX = ballX +ballSpeedX;
+    ballX = ballX + ballSpeedX;
+    ballY = ballY + ballSpeedY;
 }
 
 
