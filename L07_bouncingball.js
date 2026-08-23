@@ -21,7 +21,7 @@ function draw() {
     background("lightblue");
     imageMode(CENTER);
     //          x      y     w    h
-    image(pico, xpos, ypos, 110, 133);
+    image(pico, xpos, ypos, picoWidth, 133);
     if (keyIsDown(LEFT_ARROW)) {
         xpos = xpos - 2;
     }
