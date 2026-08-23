@@ -9,8 +9,8 @@ function setup() {
     createCanvas(500, 600);
     background("grey");
     noStroke()
-    ballX = width/2;
-    ypos = height/2;
+    ballX = 50;
+    ballY;
 }
 
 function draw() {
