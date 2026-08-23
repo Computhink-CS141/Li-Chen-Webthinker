@@ -40,7 +40,7 @@ function draw() {
 
 function keyPressed() {
     if (keyCode === 32) {
-        picoWidth
+        picoWidth = 55;
         sfx.play();
     }
 }
