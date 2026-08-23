@@ -26,6 +26,7 @@ function draw() {
         xpos = xpos - 2;
     }
     if (keyIsDown(RIGHT_ARROW)) {
+        pico
         xpos = xpos + 2;
     }
     if (keyIsDown(UP_ARROW)) {
