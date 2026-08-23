@@ -12,7 +12,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(350, 350);
+    createCanvas(600, 600);
     background("lightblue");
     xpos = width/2;
     ypos = height/2;
