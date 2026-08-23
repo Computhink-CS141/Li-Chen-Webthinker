@@ -11,11 +11,12 @@ function setup() {
     noStroke()
     ballX = 50;
     ballY = 50;
+    fill(0);
 }
 
 function draw() {
     
-    fill(0);
+    
     circle(ballX, ballY, ballSize);
     
     ballX = ballX + ballSpeedX;
