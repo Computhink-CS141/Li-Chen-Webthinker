@@ -16,7 +16,7 @@ function setup() {
 function draw() {
     background(200);
     fill(0);
-    circle(ballX, BallY, ballSize);
+    circle(ballX, ballY, ballSize);
 }
 
 
