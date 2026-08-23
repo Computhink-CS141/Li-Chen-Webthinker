@@ -1,7 +1,7 @@
 // write your codes here
 let pico;
 let xpos, ypos;
-let bgm, sfx;
+let sfx;
 
 function preload() {
     // any media, image or sound must load here
