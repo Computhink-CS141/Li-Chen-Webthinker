@@ -22,8 +22,8 @@ function draw() {
     imageMode(CENTER);
     //          x      y     w    h
     image(pico, xpos, ypos, 110, 133);
-    if (keyIsDown(RIGHT_ARROW)) {
-        xpos = xpos + 2;
+    if (keyIsDown(LEFT_ARROW)) {
+        xpos = xpos - 2;
     }
     if (keyIsDown(RIGHT_ARROW)) {
         xpos = xpos + 2;
