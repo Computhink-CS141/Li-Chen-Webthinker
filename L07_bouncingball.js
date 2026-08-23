@@ -23,20 +23,20 @@ function draw() {
 
     if (ballX > width) {
         ballSpeedX = -1 * ballSpeedX; // 2 -1 = -2
-        fill(random(0, 255), 0, random(0, 255), random(0, 55));
+        fill(random(0, 255), 0, random(0, 255), random(10, 55));
     }
     if (ballX < 0) {
         ballSpeedX = -1 * ballSpeedX; // -2 * -1 = 2
-        fill(  random(0, 255), 0, random(0, 255), random(0, 55));
+        fill(  random(0, 255), 0, random(0, 255), random(10, 55));
     }
 
     if (ballY > height) {
         ballSpeedY = -1 * ballSpeedY;
-        fill(random(0, 255), 0, random(0, 255), random(0, 55));
+        fill(random(0, 255), 0, random(0, 255), random(10, 55));
     }
     if (ballY < 0) {
         ballSpeedY = -1 * ballSpeedY;
-        fill(random(0, 255), 0, random(0, 255), random(0, 55));
+        fill(random(0, 255), 0, random(0, 255), random(10, 55));
     }
 }
 
