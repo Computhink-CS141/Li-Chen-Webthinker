@@ -48,17 +48,6 @@ function draw() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // let pico;
 // let xpos, ypos;
 // let sfx;
