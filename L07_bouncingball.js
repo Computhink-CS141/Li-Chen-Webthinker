@@ -7,14 +7,14 @@ let ballSpeedY = 2;
 
 function setup() {
     createCanvas(500, 600);
-    background("grey");
+    background(200);
     noStroke()
     ballX = 50;
     ballY = 50;
 }
 
 function draw() {
-    background(200);
+    
     fill(0);
     circle(ballX, ballY, ballSize);
     
