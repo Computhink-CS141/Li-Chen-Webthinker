@@ -1,7 +1,7 @@
 // write your codes here
 let ballSize = 40;
 let letballX = 0;
-
+let ballY 
 
 
 
