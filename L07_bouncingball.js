@@ -7,7 +7,7 @@ let ballSpeedY = 2;
 
 function setup() {
     createCanvas(500, 600);
-    background(grey);
+    background("grey");
     xpos = width/2;
     ypos = height/2;
 }
