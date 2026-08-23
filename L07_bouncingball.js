@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-    circle(ballX, Ball, 50);
+    circle(ballX, BallY, Ba);
 }
 
 
