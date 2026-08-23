@@ -38,10 +38,4 @@ function keyPressed() {
     if (keyCode === 32) {
         sfx.play();
     }
-    if (key === 's') {
-        bgm.stop();
-    }
-    if (key === 'c') {
-        bgm.play();
-    }
 }
