@@ -15,7 +15,7 @@ function setup() {
 
 function draw() {
     background(200);
-    FileList(0);
+    fill(0);
     circle(ballX, BallY, ballSize);
 }
 
