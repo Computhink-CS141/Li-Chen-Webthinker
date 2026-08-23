@@ -11,7 +11,7 @@ function setup() {
     noStroke()
     ballX = 50;
     ballY = 50;
-    fill(0);
+    fill(white");
 }
 
 function draw() {
