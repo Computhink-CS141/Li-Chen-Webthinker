@@ -42,7 +42,7 @@ function draw() {
 }
 
 
-
+if (keyIsDown (UP_ARROW));
 
 
 
