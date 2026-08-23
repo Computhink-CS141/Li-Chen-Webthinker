@@ -1,8 +1,8 @@
 // write your codes here
 let ballSize = 40;
 let ballX = 0;
-let ballY = 
-
+let ballY = 0;
+let ballSpeedX
 
 
 
