@@ -13,7 +13,7 @@ function setup() {
 }
 
 function draw() {
-    circle()
+    circle(200, 300, 50);
 }
 
 
