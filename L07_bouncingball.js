@@ -1,6 +1,6 @@
 // write your codes here
 let ballSize = 40;
-
+letballX = 0 
 
 
 
