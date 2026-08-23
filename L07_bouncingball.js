@@ -2,6 +2,7 @@
 let pico;
 let xpos, ypos;
 let sfx;
+let picoWidth;
 
 function preload() {
     // any media, image or sound must load here
