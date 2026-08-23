@@ -26,7 +26,7 @@ function draw() {
         xpos = xpos - 2;
     }
     if (keyIsDown(RIGHT_ARROW)) {
-        pico
+        picoWidth = 110; //revert
         xpos = xpos + 2;
     }
     if (keyIsDown(UP_ARROW)) {
