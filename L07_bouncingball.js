@@ -10,7 +10,7 @@ function setup() {
     background("grey");
     noStroke()
     ballX = 50;
-    ballY;
+    ballY = 50;
 }
 
 function draw() {
