@@ -9,7 +9,7 @@ function setup() {
     createCanvas(500, 600);
     background("grey");
     noStroke()
-    xpos = width/2;
+    ballX = width/2;
     ypos = height/2;
 }
 
