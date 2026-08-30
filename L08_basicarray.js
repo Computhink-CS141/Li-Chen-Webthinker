@@ -16,9 +16,10 @@ function setup() {
 function draw() {
     background(220); //erase canvas
     textSize(18);
+    
 
     for (let count=0; count < storyText.length ; count++) {
-        //                      x    
+        //                      x    y
         text(storyText[count], 100, ypos + lineY);
         lineY = lineY + 20; // skip and puch lower
     }
