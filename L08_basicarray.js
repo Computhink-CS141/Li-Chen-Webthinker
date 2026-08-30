@@ -7,7 +7,7 @@ function setup() {
     createCanvas(400, 600);
     ypos = height;
 
-    storyText[0] = "long long long long long long long long time ago.................";
+    storyText[0] = "long long long long long time ago.................";
     storyText[1] = "i was told a grandmother story";
     storyText[2] = "the end."
     print(storyText); //check js console
