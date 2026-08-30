@@ -12,4 +12,6 @@ function draw() {
     //                       x    y
     text("hello everybody", 100, ypos);
     text("second line",     100, ypos + 18);
+
+    ypos -= 
 }
