@@ -9,5 +9,5 @@ function draw() {
     textSize(64);
     //
     text("hello everybody", 200 , height/2);
-    t
+    text("second line",)
 }
