@@ -9,7 +9,7 @@ function setup() {
 function draw() {
     background(220); //erase canvas
     textSize(18);
-    //                       x      y
+    //                       x    y
     text("hello everybody", 175, ypos);
     text("second line",     175, ypos + 18);
 }
