@@ -16,8 +16,8 @@ function setup() {
 function draw() {
     background(220); //erase canvas
     textSize(18);
-    
 
+    lineY = 0
     for (let count=0; count < storyText.length ; count++) {
         //                      x    y
         text(storyText[count], 100, ypos + lineY);
