@@ -6,5 +6,5 @@ function setup() {
 
 function draw() {
     background(220); //erase canvas
-    text
+    textSize(64);
 }
