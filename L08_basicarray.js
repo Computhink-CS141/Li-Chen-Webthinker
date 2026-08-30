@@ -27,6 +27,6 @@ function draw() {
     ypos = ypos - 0.67;
 
     if (ypos < 0) {
-        
+        ypos = height;
     }
 }
