@@ -24,9 +24,5 @@ function draw() {
         text(storyText[count], width/2, ypos + lineY);
         lineY = lineY + 25; // skip and puch lower
     }
-    // //                       x    y
-    // text("hello everybody", 100, ypos);
-    // text("second line",     100, ypos + 18);
-    // text("third line",      100, ypos +36)
     ypos = ypos - 0.67;
 }
