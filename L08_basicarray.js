@@ -1,4 +1,6 @@
 // write your codes here
+ypos
+
 function setup() {
     createCanvas(800, 600);
     
