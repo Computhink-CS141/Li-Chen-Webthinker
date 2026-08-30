@@ -6,6 +6,8 @@ let storyText = [];
 function setup() {
     createCanvas(400, 600);
     ypos = height;
+
+    storyText[0] = 
 }
 
 function draw() {
