@@ -3,7 +3,7 @@ let ypos = 0;
 
 function setup() {
     createCanvas(400, 600);
-    ypos = height/2
+    ypos = height;
 }
 
 function draw() {
@@ -13,5 +13,5 @@ function draw() {
     text("hello everybody", 100, ypos);
     text("second line",     100, ypos + 18);
     text("third line",      100, ypos +36)
-    ypos -= 0.67;
+    ypos = 0.67;
 }
