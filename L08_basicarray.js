@@ -16,7 +16,7 @@ function setup() {
 function draw() {
     background(220); //erase canvas
     textSize(18);
-
+    FileList("")
     lineY = 0
     for (let count=0; count < storyText.length ; count++) {
         //                      x    y
