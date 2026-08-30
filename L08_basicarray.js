@@ -8,5 +8,5 @@ function draw() {
     background(220); //erase canvas
     textSize(64);
     //
-    text
+    text("hello everybody")
 }
