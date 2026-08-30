@@ -10,6 +10,6 @@ function draw() {
     background(220); //erase canvas
     textSize(18);
     //                       x    y
-    text("hello everybody", 175, ypos);
-    text("second line",     175, ypos + 18);
+    text("hello everybody", 100, ypos);
+    text("second line",     100, ypos + 18);
 }
