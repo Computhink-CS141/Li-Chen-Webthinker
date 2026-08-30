@@ -7,4 +7,6 @@ function setup() {
 function draw() {
     background(220); //erase canvas
     textSize(64);
+    //
+    text
 }
