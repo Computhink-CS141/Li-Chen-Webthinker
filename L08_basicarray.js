@@ -20,7 +20,7 @@ function draw() {
     for (let count=0; count < storyText.length ; count++) {
         //
         text(storyText[count], 100, ypos + lineY);
-        lineY = lineY + 20;
+        lineY = lineY + 20; // skip and puch lower
     }
     // //                       x    y
     // text("hello everybody", 100, ypos);
