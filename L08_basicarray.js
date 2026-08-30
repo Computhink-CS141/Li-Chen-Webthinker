@@ -20,9 +20,9 @@ function draw() {
     lineY = 0
     textAlign(CENTER, CENTER);
     for (let count=0; count < storyText.length ; count++) {
-        //                        x    y
+        //                        x      y
         text(storyText[count], width/2, ypos + lineY);
-        lineY = lineY + 20; // skip and puch lower
+        lineY = lineY + 25; // skip and puch lower
     }
     // //                       x    y
     // text("hello everybody", 100, ypos);
