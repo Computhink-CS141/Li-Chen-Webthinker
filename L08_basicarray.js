@@ -19,7 +19,7 @@ function draw() {
 
     for (let count=0; count < storyText.length ; count++) {
         //
-        text()
+        text(storyText[c])
     }
     // //                       x    y
     // text("hello everybody", 100, ypos);
