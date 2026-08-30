@@ -42,8 +42,15 @@ function draw() {
 }
 
 
-if (keyPressed){
-
+function keyPressed() {
+    if (keyCode === UP_ARROW) {
+        ballSpeedX = ballSpeedX * 1.2;
+        ballSpeedY = ballSpeedY * 1.2;
+    }
+    else if (keyCode === DOWN_ARROW) {
+        ballSpeedX = ballSpeedX * 0.67;
+        ballSpeedY = ballSpeedY * 0.67;
+    }
 }
 
 
