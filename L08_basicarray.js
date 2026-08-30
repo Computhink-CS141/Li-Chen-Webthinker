@@ -18,6 +18,7 @@ function draw() {
     textSize(18);
     fill("blue");
     lineY = 0
+    
     for (let count=0; count < storyText.length ; count++) {
         //                      x    y
         text(storyText[count], 100, ypos + lineY);
