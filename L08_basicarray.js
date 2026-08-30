@@ -24,7 +24,7 @@ function draw() {
         text(storyText[count], width/2, ypos + lineY);
         lineY = lineY + 25; // skip and puch lower
     }
-    ypos = ypos - 0.67;
+    ypos = ypos - 1;
 
     if (ypos < 0) {
         ypos = height;
