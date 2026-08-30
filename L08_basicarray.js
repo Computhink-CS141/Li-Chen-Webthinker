@@ -13,5 +13,5 @@ function draw() {
     text("hello everybody", 100, ypos);
     text("second line",     100, ypos + 18);
     text("third line",      100, ypos +36)
-    ypos = 0.67;
+    ypos = ypos - 0.67;
 }
