@@ -25,4 +25,8 @@ function draw() {
         lineY = lineY + 25; // skip and puch lower
     }
     ypos = ypos - 0.67;
+
+    if (ypos < 0) {
+        
+    }
 }
