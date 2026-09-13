@@ -23,7 +23,7 @@ function setup() {
 
 function draw() {
     background("black");
-    if (started);
+    if (started===true);
         fill(255,255,0)
     textSize(20);
     textAlign(CENTER);
