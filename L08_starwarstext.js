@@ -2,7 +2,7 @@
 let sfx;
 let yPos = 400;
 let lineGap = 60;
-let started = false
+let started = false;
 
 let storyText = [
     "A long time ago in a galaxy far",
