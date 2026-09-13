@@ -14,5 +14,7 @@ function draw() {
     // textSize(10);
     // text("nothing", 50, 90)
 
-    
+
+
+    textSize 
 }
