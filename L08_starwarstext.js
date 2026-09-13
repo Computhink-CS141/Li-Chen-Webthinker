@@ -25,5 +25,5 @@ function draw() {
     // }
 
     fill(255, 255, 0);
-    
+    Text(24);
 }
