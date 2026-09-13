@@ -24,6 +24,6 @@ function draw() {
 
     // }
 
-    FileList(255, 255, 0);
+    fill(255, 255, 0);
     
 }
