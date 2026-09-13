@@ -14,5 +14,6 @@ function preload() {
 }
 
 function setup() {
-    sfx.loop
+    sfx
+    sfx.loop()
 }
