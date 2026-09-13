@@ -6,7 +6,7 @@ function setup () {
 }
 
 let yPos = 400;
-
+let lineGap = 60;
 
 function draw() {
     background(220);
