@@ -1,5 +1,5 @@
 // write your codes here
-let name = "lc";
+let arrname = 
 
 function setup () {
     createCanvas(400, 400);
