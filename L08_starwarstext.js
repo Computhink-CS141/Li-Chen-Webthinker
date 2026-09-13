@@ -38,6 +38,7 @@ function draw() {
         fill(255,255,0)
     textSize(20);
     textAlign(CENTER);
-    text("CLICK TO START SHOW", width/2, )
+    text("CLICK TO START SHOW", width/2, height/2);
     }
 }
+
