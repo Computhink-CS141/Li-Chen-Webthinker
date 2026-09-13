@@ -34,4 +34,7 @@ function draw() {
         text((i+1) + "." + list[1], width/2, yPos + i*30);
     }
     yPos -= 0.6;
+    if(yPos < -list.length * lineGap) {
+        
+    }
 }
