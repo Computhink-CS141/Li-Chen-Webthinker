@@ -12,5 +12,5 @@ function draw() {
     textSize(15);
     text("12", 50, 60);
     textSize(10);
-    text
+    text("nothing")
 }
