@@ -1,5 +1,5 @@
 // write your codes here
-let arrname = ["pizza", "burger", "sushi"];
+let list = ["pizza", "burger", "sushi"];
 
 function setup () {
     createCanvas(400, 400);
@@ -13,5 +13,4 @@ function draw() {
     text("12", 50, 70);
     textSize(10);
     text("nothing", 50, 90)
-    arrname[0];
 }
