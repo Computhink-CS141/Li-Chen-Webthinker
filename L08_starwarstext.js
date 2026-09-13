@@ -18,5 +18,8 @@ function draw() {
 
     textSize(20);
     textAlign(LEFT);
-    text["My favourite foods"]
+    text["My favourite foods:"]
+    for(let i=0; i<list.length;i++) {
+        
+    }
 }
