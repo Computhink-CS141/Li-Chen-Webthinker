@@ -22,5 +22,7 @@ function draw() {
     background("black");
     textSize(20);
     textAlign(CENTER);
-    for(let i = 0; i<list.length; i++);
+    for(let i = 0; i<list.length; i++) {
+        text(s)
+    }
 }
