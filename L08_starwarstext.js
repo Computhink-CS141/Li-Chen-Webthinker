@@ -22,6 +22,7 @@ function setup() {
 
 function draw() {
     background("black");
+    fill(255,255,0)
     textSize(20);
     textAlign(CENTER);
     for(let i = 0; i<storyText.length; i++) {
