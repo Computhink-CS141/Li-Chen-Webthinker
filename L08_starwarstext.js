@@ -26,5 +26,5 @@ function draw() {
 
     fill(255, 255, 0);
     textSize(24);
-    
+    textAlign(CENTER)
 }
