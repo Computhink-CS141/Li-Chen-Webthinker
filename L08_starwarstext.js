@@ -1,5 +1,5 @@
 // write your codes here
-let sfx 
+let sfx;
 
 let storyText = [
     "A long time ago in a galaxy far",
