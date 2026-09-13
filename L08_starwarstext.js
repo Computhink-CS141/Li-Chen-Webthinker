@@ -18,5 +18,5 @@ function draw() {
 
     textSize(20);
     textAlign(LEFT);
-    text["My "]
+    text["My favourite foods"]
 }
