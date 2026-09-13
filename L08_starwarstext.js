@@ -10,7 +10,7 @@ function draw() {
     textSize(20);
     text("li chen", 50 ,50);
     textSize(15);
-    text("12", 50, 60);
+    text("12", 50, 70);
     textSize(10);
-    text("nothing", 50, 70)
+    text("nothing", 50, 90)
 }
