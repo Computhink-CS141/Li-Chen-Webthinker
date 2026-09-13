@@ -15,5 +15,6 @@ function preload() {
 
 function setup() {
     sfx.loop()
-    createCanvas()
+    createCanvas(400, 600);
+    backgroun
 }
