@@ -1,5 +1,6 @@
 // write your codes here
 let sfx;
+letyPos = 400;
 
 let storyText = [
     "A long time ago in a galaxy far",
