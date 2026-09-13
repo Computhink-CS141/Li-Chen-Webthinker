@@ -8,5 +8,5 @@ let storyText = [
 ]
 
 function preload() {
-    loadSound("assets/pop.mp3");
+    loadSound("assets/star_wars.mp3");
 }
