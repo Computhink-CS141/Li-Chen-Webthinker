@@ -23,6 +23,6 @@ function draw() {
     textSize(20);
     textAlign(CENTER);
     for(let i = 0; i<list.length; i++) {
-        text(s)
+        text(storyText)
     }
 }
