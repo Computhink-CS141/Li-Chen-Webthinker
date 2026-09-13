@@ -20,6 +20,6 @@ function draw() {
     textAlign(LEFT);
     text["My favourite foods:"]
     for(let i=0; i<list.length;i++) {
-        
+        text( )
     }
 }
