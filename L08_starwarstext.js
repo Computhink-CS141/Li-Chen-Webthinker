@@ -1,4 +1,6 @@
 // write your codes here
+let 
+
 let storyText = [
     "A long time ago in a galaxy far",
     "far away",
