@@ -45,6 +45,6 @@ function draw() {
 function mousePressed() {
     if(started === false) {
         started = true;
-        sfx
+        sfx.loop()
     }
 }
