@@ -30,7 +30,7 @@ function draw() {
     fill(255, 255, 0);
     textSize(24);
     textAlign(CENTER);
-    for(let i = 0; i < list.length; i++) {
+    for(let i = 0; i<list.length; i++) {
         text((i+1) + "." + list[1], width/2, yPos + i*30);
     }
     yPos -= 0.6;
