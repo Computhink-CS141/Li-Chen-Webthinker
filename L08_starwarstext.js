@@ -11,4 +11,5 @@ function draw() {
     text("li chen", 50 ,50);
     textSize(67)
     text(67);
+    text
 }
