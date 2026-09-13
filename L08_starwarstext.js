@@ -3,5 +3,6 @@ let storyText = [
     "A long time agoo in a galaxy far",
     "far away",
     "It is a period of learning",
-    "Our adventure begins here"
+    "Our adventure begins here",
+    "Anything is possible"
 ]
