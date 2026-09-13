@@ -6,3 +6,7 @@ let storyText = [
     "Our adventure begins here",
     "Anything is possible"
 ]
+
+function preload() {
+    
+}
