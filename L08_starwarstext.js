@@ -30,5 +30,5 @@ function draw() {
     for(let i = 0; i < list.length; i++) {
         text((i+1) + "." + list[1], width/2, yPos + i*30);
     }
-    ypos -= 0.6;
+    yPos -= 0.6;
 }
