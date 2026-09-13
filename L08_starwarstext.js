@@ -1,5 +1,5 @@
 // write your codes here
-let arrname = 
+let arrname = ["pizza", "burger",]
 
 function setup () {
     createCanvas(400, 400);
