@@ -16,5 +16,6 @@ function draw() {
 
 
 
-    textSize 
+    textSize(20);
+    textAlign(LEFT)
 }
