@@ -9,7 +9,7 @@ function draw() {
     background(220);
     textSize(20);
     text("li chen", 50 ,50);
-    textSize(67)
-    text("12", );
+    textSize(15)
+    text("12", 50, 60);
     textSize()
 }
