@@ -22,7 +22,7 @@ function draw() {
     background("black");
     textSize(20);
     textAlign(CENTER);
-    for(let i = 0; i<list.length; i++) {
+    for(let i = 0; i<storyText.length; i++) {
         text((i+1) + "." + list[1], width/2, yPos + i*30);
     }
     yPos -= 0.6;
