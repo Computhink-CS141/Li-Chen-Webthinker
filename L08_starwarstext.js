@@ -1,7 +1,7 @@
 // write your codes here
 let sfx;
 let yPos = 400;
-
+let lineGap
 let storyText = [
     "A long time ago in a galaxy far",
     "far away",
