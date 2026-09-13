@@ -9,7 +9,7 @@ let yPos = 400;
 let lineGap = 60;
 
 function draw() {
-    background(220);
+    background("black");
     // textSize(20);
     // text("li chen", 50 ,50);
     // textSize(15);
