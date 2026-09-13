@@ -25,7 +25,8 @@ function draw() {
     textSize(20);
     textAlign(CENTER);
     for(let i = 0; i<storyText.length; i++) {
-        text((i+1) + "." + storyText[i], width/2, yPos + i*30);
+        text((i+1) + "." + storyText[i], width/2, yPos + i*lin
+    );
     }
     yPos -= 0.6;
     if(yPos < -storyText.length * lineGap) {
