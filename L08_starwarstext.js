@@ -8,5 +8,5 @@ let storyText = [
 ]
 
 function preload() {
-    
+    loadSound("assets/pop.mp3");
 }
