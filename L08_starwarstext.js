@@ -28,7 +28,7 @@ function draw() {
     textSize(24);
     textAlign(CENTER);
     for(let i = 0; i < list.length; i++) {
-        text((i+1) + "." + list[1], width/2, ypos + i*30);
+        text((i+1) + "." + list[1], width/2, yPos + i*30);
     }
     ypos -= 0.6;
 }
