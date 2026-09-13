@@ -23,7 +23,7 @@ function setup() {
 
 function draw() {
     background("black");
-    if (started===true);
+    if (started){
         fill(255,255,0)
     textSize(20);
     textAlign(CENTER);
@@ -34,6 +34,7 @@ function draw() {
     if(yPos < -storyText.length * lineGap) {
         yPos = height;
     }
+}
     else {
         fill(255,255,0)
     textSize(20);
