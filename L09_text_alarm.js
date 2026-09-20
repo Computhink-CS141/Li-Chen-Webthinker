@@ -43,6 +43,3 @@ function updateCountdown() {
     }
 }
 
-function preload() {
-    play.sfx()
-}
