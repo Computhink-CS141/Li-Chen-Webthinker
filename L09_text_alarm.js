@@ -26,5 +26,5 @@ function draw() {
 }
 
 function mousePressed() {
-    print("i got mouse clicked!")
+    console.log("i got mouse clicked!")
 }
