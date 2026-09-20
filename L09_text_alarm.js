@@ -7,5 +7,6 @@ function setup() {
 function draw() {
     background(220);
 
-    let hh = hour()
+    let hh = hour();
+    let 
 }
