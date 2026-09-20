@@ -6,7 +6,7 @@ let bgColor = "gray";
 
 function setup() {
     createCanvas(400, 400);
-    background(220);
+    background(bg);
     textAlign(CENTER, CENTER);
 }
 
