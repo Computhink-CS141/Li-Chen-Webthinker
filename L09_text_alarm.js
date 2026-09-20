@@ -30,3 +30,7 @@ function mousePressed() {
     console.log("i got mouse clicked!")
     objectId = setInterval(updateCountdown, 1000);
 }
+
+function updateCountdown() {
+    if (countdown === 0)
+}
