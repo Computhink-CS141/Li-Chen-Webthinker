@@ -10,5 +10,5 @@ function draw() {
     let hh = hour();
     let sec = 0;
     fill(0);
-    
+    textSize(72)
 }
