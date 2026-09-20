@@ -20,7 +20,7 @@ function draw() {
 
     fill("red");
     textSize(32);
-    text(countdown, width/2, height/2+50);
+    text(countdown, width/2, height/2+75);
     textSize(16);
     text("click here to start countdown", width/2, height/2+105);
 }
