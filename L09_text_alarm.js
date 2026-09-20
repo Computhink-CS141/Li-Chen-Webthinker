@@ -41,7 +41,7 @@ function updateCountdown() {
     if (countdown === 0) {
         clearInterval(objectId);
         bgColor = "red";
-        sfx.play
+        sfx.play();
     }
     else {
         countdown = countdown - 1;
