@@ -28,5 +28,5 @@ function draw() {
 
 function mousePressed() {
     console.log("i got mouse clicked!")
-    
+    objectId = set
 }
