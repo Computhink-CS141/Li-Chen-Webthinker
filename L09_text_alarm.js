@@ -8,5 +8,5 @@ function draw() {
     background(220);
 
     let hh = hour();
-    let 
+    let sec = sco
 }
