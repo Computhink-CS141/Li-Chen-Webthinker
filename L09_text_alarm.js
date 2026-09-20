@@ -6,7 +6,7 @@ let bgColor = "lightgray";
 let sfx;
 
 function preload() {
-    
+    sfx = bossNova
 }
 
 function setup() {
