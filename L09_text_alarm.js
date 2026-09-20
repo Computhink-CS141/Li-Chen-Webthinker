@@ -35,4 +35,7 @@ function updateCountdown() {
     if (countdown === 0) {
         clearInterval(objectId);
     }
+    else {
+        
+    }
 }
