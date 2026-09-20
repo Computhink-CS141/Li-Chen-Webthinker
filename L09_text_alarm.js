@@ -3,6 +3,7 @@
 let countdown = 5;
 let objectId;
 let bgColor = "lightgray";
+let sfx;
 
 function setup() {
     createCanvas(400, 400);
