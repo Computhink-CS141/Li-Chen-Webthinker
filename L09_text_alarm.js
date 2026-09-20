@@ -17,5 +17,5 @@ function draw() {
     fill("red");
     textSize(72);
     text(nf(hh,2)+ ":"+(nf(min, 2)) + ":"+(nf(sec,2)), width/2, height/2);
-    displayText()
+    displayText(countdown)
 }
