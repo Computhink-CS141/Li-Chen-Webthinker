@@ -12,5 +12,5 @@ function draw() {
     let sec = 0;
     fill(0);
     textSize(72);
-    text(nf(hh,2)+ ":"+min + ":"+sec, width/2, height/2)
+    text(nf(hh,2)+ ":"+min + ":"+sec, width/2, height/2);
 }
