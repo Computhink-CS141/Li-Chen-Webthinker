@@ -8,7 +8,7 @@ function draw() {
     background(220);
 
     let hh = hour();
-    let min = min
+    let min = minutes();
     let sec = 0;
     fill(0);
     textSize(72);
