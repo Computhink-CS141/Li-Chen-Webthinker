@@ -5,6 +5,10 @@ let objectId;
 let bgColor = "lightgray";
 let sfx;
 
+function preload() {
+    
+}
+
 function setup() {
     createCanvas(400, 400);
     background(bgColor);
