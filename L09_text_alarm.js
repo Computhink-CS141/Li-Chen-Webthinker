@@ -24,3 +24,7 @@ function draw() {
     textSize(16);
     text("click here to start countdown", width/2, height/2+105);
 }
+
+function mousePressed() {
+    
+}
