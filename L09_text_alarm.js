@@ -9,5 +9,5 @@ function draw() {
 
     let hh = hour();
     let sec = 0;
-    fill
+    fill(0)
 }
