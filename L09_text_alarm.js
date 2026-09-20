@@ -41,3 +41,7 @@ function updateCountdown() {
         countdown = countdown - 1;
     }
 }
+
+function preload() {
+    
+}
