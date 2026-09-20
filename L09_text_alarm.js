@@ -10,5 +10,6 @@ function draw() {
     let hh = hour();
     let sec = 0;
     fill(0);
-    textSize(72)
+    textSize(72);
+    text(nf())
 }
