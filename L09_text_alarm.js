@@ -11,5 +11,5 @@ function draw() {
     let sec = 0;
     fill(0);
     textSize(72);
-    text(nf())
+    text(nf(hh,2)+"")
 }
