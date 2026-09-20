@@ -44,5 +44,5 @@ function updateCountdown() {
 }
 
 function preload() {
-    play
+    play.sfx()
 }
