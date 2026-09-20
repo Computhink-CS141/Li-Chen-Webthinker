@@ -2,6 +2,7 @@
 
 let countdown = 5;
 let objectId;
+let bgColor
 
 function setup() {
     createCanvas(400, 400);
