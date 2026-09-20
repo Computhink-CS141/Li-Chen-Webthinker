@@ -6,7 +6,7 @@ let bgColor = "lightgray";
 let sfx;
 
 function preload() {
-    sfx = loadSound("assets/bossNova.mp3");
+    sfx = loadSound("assets/bossaNova.mp3");
 }
 
 function setup() {
