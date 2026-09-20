@@ -20,5 +20,6 @@ function draw() {
 
     fill("red");
     textSize(32);
-    text(countdown, width/2, height/2+50)
+    text(countdown, width/2, height/2+50);
+    
 }
